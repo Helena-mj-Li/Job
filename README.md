@@ -1,2 +1,2 @@
-# data intern
+# data analyst
 # Job
